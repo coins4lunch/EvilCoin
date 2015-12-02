@@ -1,0 +1,9 @@
+Building EvilCoin
+
+See doc/readme-qt.rst for instructions on building EvilCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EvilCoin.
+
+See doc/build-*.txt for instructions on building EvilCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EvilCoin.
